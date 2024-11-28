@@ -1,7 +1,7 @@
 # CurrentTODO
-🇧🇷 Exiba, copie e salve seus textos de forma prática!
+🇧🇷 Exiba, copie e salve seus textos de forma prática com um visual oldschool e muito leve, para todos aqueles que gostam de se organizar e criar lista de tarefas 💙
 
-🇺🇸 Display, copy and save your texts simply!
+🇺🇸 Display, copy and save your texts in a faster way with an oldschool look and very light, for all those who like to organize and create to-do lists 💙
 
 ## Semântica
 🇺🇸 Semantics
